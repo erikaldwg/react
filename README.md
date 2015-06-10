@@ -10,7 +10,7 @@ React is a JavaScript library for building user interfaces.
 
 [Learn how to use React in your own project.](https://facebook.github.io/react/docs/getting-started.html).
 
-## Examples
+# Examples
 
 We have several examples [on the website](https://facebook.github.io/react/). Here is the first one to get you started:
 
